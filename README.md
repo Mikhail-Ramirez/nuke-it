@@ -1,6 +1,6 @@
 # Nuke-It
 
-A nuke switch powered by a CircuitPython-flashed XIAO SAMD21 (or any CircuitPython-compatible board).
+A kill it all and try again switch powered by a CircuitPython-flashed XIAO SAMD21 (or any CircuitPython-compatible board).
 
 ---
 
