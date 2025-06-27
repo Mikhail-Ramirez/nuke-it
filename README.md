@@ -1,6 +1,6 @@
 # Nuke-It
 
-A one-button “repo nuke & clone” switch powered by a CircuitPython-flashed XIAO SAMD21 (or any CircuitPython-compatible board).
+A nuke switch powered by a CircuitPython-flashed XIAO SAMD21 (or any CircuitPython-compatible board).
 
 ---
 
@@ -29,7 +29,7 @@ A one-button “repo nuke & clone” switch powered by a CircuitPython-flashed X
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 1. **Flash** your board with the CircuitPython UF2.  
 2. **Copy** your `code.py` (the nuke-it script) into the **root** of the freshly-mounted `CIRCUITPY` drive.  
@@ -37,3 +37,5 @@ A one-button “repo nuke & clone” switch powered by a CircuitPython-flashed X
    ```txt
    XIAO D2 ───┐
               └── SWITCH ─── GND
+4. **Eject/safely** remove the CIRCUITPY drive so the firmware reloads. Then replug (it could prob be wifi enabled but im lazy + power yk).
+5. Program normally until critical failure and you determine it is time to **play god**
