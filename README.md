@@ -1,6 +1,6 @@
 # Nuke-It
 
-A kill it all and try again switch powered by a CircuitPython-flashed XIAO SAMD21 (or any CircuitPython-compatible board).
+A kill it all and try again switch powered by a CircuitPython-flashed XIAO SAMD21 (or any CircuitPython-compatible board). (CAD Model will be uploaded as soon as I remember)
 
 ---
 
@@ -8,7 +8,7 @@ A kill it all and try again switch powered by a CircuitPython-flashed XIAO SAMD2
 
 1. **Hardware**  
    - [Seeeduino XIAO (SAMD21) or similar board](https://circuitpython.org/board/seeeduino_xiao/)  
-   - A momentary or toggle switch  
+   - [A momentary or toggle switch] (https://www.amazon.com/dp/B07BTRK5SP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
    - USB-C (or USB-Micro) cable **with data** support  
 
 2. **Firmware**  
